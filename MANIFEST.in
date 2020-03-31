@@ -1,0 +1,2 @@
+include PointNet/misc/modelnet_id.txt
+include PointNet/misc/num_seg_classes.txt
